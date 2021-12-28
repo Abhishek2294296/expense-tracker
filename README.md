@@ -2,6 +2,8 @@
                        will also need to fill in the details about the income and the amount he/she wants to save. Some people earn on a daily basis, so their income can
                        also be added on a regular basis. Details of expenses will be shown in the form of a pie chart on a weekly, monthly, and yearly basis. Installation 
                        of django is a must to start with the Expense Tracker project.
+                       User can add the expenses , create a new category for expenses , user should be able to see all expenses
+                       added by him/her with date range filters . User should be able to see all the categories by him/her.
 
 # Project File Structure -->1. Install django framework
                             2. Create a project and an app
